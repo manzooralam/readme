@@ -25,9 +25,9 @@ Make sure the file always includes the following elements:
 * [Setup](#setup)
 
 ```
-## Table of contents
-* [General info](##for-technologies)
-* [Technologies](#technologies)
+## For Table of contents:
+* [General info](#for-general-info)
+* [Technologies](#for-technologies)
 * [Setup](#setup)
 ```
 
