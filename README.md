@@ -26,7 +26,7 @@ Make sure the file always includes the following elements:
 
 ```
 ## Table of contents
-* [General info](#general-info)
+* [General info](##for-technologies)
 * [Technologies](#technologies)
 * [Setup](#setup)
 ```
