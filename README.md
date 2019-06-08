@@ -76,4 +76,5 @@ float b=20.7;
  ` ![alt text](url.gif) `
 
 
-	
+## Sources:
+This readme is inspired by [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
