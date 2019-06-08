@@ -77,4 +77,4 @@ float b=20.7;
 
 
 ## Sources:
-This readme is inspired by [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+This readme is inspired by [gist.github.com](https://gist.githubusercontent.com/PurpleBooth/109311bb0361f32d87a2/raw/8254b53ab8dcb18afc64287aaddd9e5b6059f880/README-Template.md)
