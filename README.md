@@ -20,7 +20,7 @@ Make sure the file always includes the following elements:
 ```
 
 ## For Table of contents:
-* [General info](#for-general-info:)
+* [General info](#for-general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
@@ -32,7 +32,7 @@ Make sure the file always includes the following elements:
 ```
 
 
-## For General info:
+## For General info
 This project is simple Lorem ipsum dolor generator.
 ```
 ## For General info:
